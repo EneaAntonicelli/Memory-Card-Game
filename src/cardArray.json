@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "RedBarrel",
+    "image": "./images/redbarrel.png",
+    "occupation": "Pyro",
+    "location": "Ireland"
+  },
+  {
+    "id": 2,
+    "name": "GoldBeard",
+    "image": "./images/goldbeard.png",
+    "occupation": "Blacksmith",
+    "location": "Sweden"
+  },
+  {
+    "id": 3,
+    "name": "Dagger",
+    "image": "./images/dagger.png",
+    "occupation": "First line melee warrior",
+    "location": "Gallapagos"
+  },
+  {
+    "id": 4,
+    "name": "Dragon",
+    "image": "./images/dragon.png",
+    "occupation": "Burning villages",
+    "location": "Azeroth"
+  },
+  {
+    "id": 5,
+    "name": "BlueMinion",
+    "image": "./images/blueminion.png",
+    "occupation": "Smasher",
+    "location": "The cloud Isles"
+  },
+  {
+    "id": 6,
+    "name": "Cannon",
+    "image": "./images/cannon.png",
+    "occupation": "Second line long range warrior",
+    "location": "England"
+  },
+  {
+    "id": 7,
+    "name": "Bombardier",
+    "image": "./images/bombardier.png",
+    "occupation": "Bombardier",
+    "location": "Norway"
+  },
+  {
+    "id": 8,
+    "name": "DragonRider",
+    "image": "./images/dragonrider.png",
+    "occupation": "Third line aerial company",
+    "location": "Skandinavia"
+  },
+  {
+    "id": 9,
+    "name": "ArmoredKnight",
+    "image": "./images/armoredknight.png",
+    "occupation": "Slasher",
+    "location": "Mines of Moria"
+  },
+  {
+    "id": 10,
+    "name": "FireDragon",
+    "image": "./images/firedragon.png",
+    "occupation": "Guard dragon",
+    "location": "Mordor"
+  },
+  {
+    "id": 11,
+    "name": "Hammer",
+    "image": "./images/hammer.png",
+    "occupation": "Pirate",
+    "location": "The Seven Seas"
+  },
+  {
+    "id": 12,
+    "name": "Gnome",
+    "image": "./images/gnome.png",
+    "occupation": "Thief",
+    "location": "Land of Ur"
+  },
+  {
+    "id": 13,
+    "name": "Goblin",
+    "image": "./images/goblin.png",
+    "occupation": "Gold horder",
+    "location": "The Underworld"
+  },
+  {
+    "id": 14,
+    "name": "HelmetHorn",
+    "image": "./images/helmethorn.png",
+    "occupation": "Raider",
+    "location": "The Eigth Tower"
+  },
+  {
+    "id": 15,
+    "name": "RedBeard",
+    "image": "./images/redbeard.png",
+    "occupation": "Drunk",
+    "location": "The Lonely Tavern"
+  },
+  {
+    "id": 16,
+    "name": "Skelly",
+    "image": "./images/skelly.png",
+    "occupation": "Ordinance Specialist",
+    "location": "The Battlefield of the Dead"
+  },
+  {
+    "id": 17,
+    "name": "TheKing",
+    "image": "./images/theking.png",
+    "occupation": "King",
+    "location": "The Kingdom"
+  },
+  {
+    "id": 18,
+    "name": "Rocktroll",
+    "image": "./images/rocktroll.png",
+    "occupation": "Eating",
+    "location": "The Mountain Caverns"
+  }
+]

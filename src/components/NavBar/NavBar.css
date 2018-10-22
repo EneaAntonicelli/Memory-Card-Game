@@ -1,0 +1,14 @@
+.navbar {
+  -moz-box-shadow: 0 0 20px #ccc;
+  -webkit-box-shadow: 0 0 20px #ccc;
+  box-shadow: 0 0 20px #ccc;
+  width: 100%;
+}
+
+.highScoreNavItem .ScoreNavItem {
+  float: right;
+}
+
+h5 {
+  padding: 0 25px 0 25px;
+}
