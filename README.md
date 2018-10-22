@@ -12,7 +12,8 @@ Each time the user clicks on an image, the pictures are shuffled. The task for t
 
 The application keeps track of the users High Score, and updates it when the user achieves a new High Score
 
-![1540172024924](public\images\1540172024924.png)
+![1540172024924](Memory-Card-Game/public/images/1540172024924.png)
+      
 
 ![1540172073576](public\images\1540172073576.png)
 
