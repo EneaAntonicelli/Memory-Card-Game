@@ -15,7 +15,8 @@ The application keeps track of the users High Score, and updates it when the use
 ![1540172024924](https://raw.githubusercontent.com/EneaAntonicelli/Memory-Card-Game/master/public/images/1540172024924.png)
       
 
-![1540172073576](public\images\1540172073576.png)
+![1540172073576](https://raw.githubusercontent.com/EneaAntonicelli/Memory-Card-Game/master/public/images/1540172073576.png)
+
 
 ###### Technologies Leveraged:
 
